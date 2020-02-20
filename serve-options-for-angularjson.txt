@@ -1,1 +1,4 @@
 
+"ssl": true,
+"sslCert": "./ssl/cert.pem",
+"sslKey": "./ssl/key.pem"
